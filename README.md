@@ -1,3 +1,3 @@
-# LostWorldWeb
+# LostWorld
 Final Year Project
-Web Version
+WebGL Version
